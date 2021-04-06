@@ -1,0 +1,15 @@
+﻿  main.cpp
+c:\users\kevinnarvaez\downloads\main.cpp(7): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+c:\users\kevinnarvaez\downloads\main.cpp(15): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+c:\users\kevinnarvaez\downloads\main.cpp(29): warning C4305: '+=': truncamiento de 'double' a 'GLfloat'
+c:\users\kevinnarvaez\downloads\main.cpp(32): warning C4305: '-=': truncamiento de 'double' a 'GLfloat'
+c:\users\kevinnarvaez\downloads\main.cpp(35): warning C4305: '+=': truncamiento de 'double' a 'GLfloat'
+c:\users\kevinnarvaez\downloads\main.cpp(38): warning C4305: '-=': truncamiento de 'double' a 'GLfloat'
+c:\users\kevinnarvaez\downloads\main.cpp(49): warning C4305: '-=': truncamiento de 'double' a 'GLfloat'
+c:\users\kevinnarvaez\downloads\main.cpp(52): warning C4305: '+=': truncamiento de 'double' a 'GLfloat'
+c:\users\kevinnarvaez\downloads\main.cpp(55): warning C4305: '+=': truncamiento de 'double' a 'GLfloat'
+c:\users\kevinnarvaez\downloads\main.cpp(58): warning C4305: '-=': truncamiento de 'double' a 'GLfloat'
+c:\users\kevinnarvaez\downloads\main.cpp(61): warning C4305: '+=': truncamiento de 'double' a 'GLfloat'
+c:\users\kevinnarvaez\downloads\main.cpp(64): warning C4305: '+=': truncamiento de 'double' a 'GLfloat'
+c:\users\kevinnarvaez\downloads\main.cpp(67): warning C4305: '+=': truncamiento de 'double' a 'GLfloat'
+  Project1.vcxproj -> C:\Users\KevinNarvaez\Downloads\Tareas Por entregar durante el Paro\Project1\Debug\Project1.exe
